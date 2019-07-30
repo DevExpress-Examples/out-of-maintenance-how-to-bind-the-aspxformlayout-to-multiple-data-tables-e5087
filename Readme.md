@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to bind the ASPxFormLayout to multiple data tables
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5087)**
+**[[Run Online]](https://codecentral.devexpress.com/e5087/)**
 <!-- run online end -->
 
 
